@@ -29,7 +29,7 @@ Smart Diet Planner is an AI-powered application designed to help users create pe
 Clone the repository and follow the setup instructions for both the backend and frontend.
 
 ```bash
-git clone https://github.com/fayasnoushad/smart-diet-planner.git
+git clone https://github.com/Sumanth-anu/Smart-diet-Planner.git
 cd smart-diet-planner
 ```
 
@@ -62,10 +62,4 @@ Once both the backend and frontend are running, you can access the application a
 
 ---
 
-### Team Members
 
-- Fayas
-- [Aneesh DS](https://github.com/anees-2004)
-- [Aginesh S](https://github.com/aginesh-s)
-
----
